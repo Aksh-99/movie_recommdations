@@ -2,7 +2,7 @@
 
 ## About the Dataset
 
-Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents. This dataset is a cleaned version of the original version which can be found [here](link_to_original_dataset). The data consist of contents added to Netflix from 2008 to 2021. The oldest content is as old as 1925 and the newest as 2021. This dataset will be cleaned with PostgreSQL and visualized with Tableau. The purpose of this dataset is to test my data cleaning and visualization skills. The cleaned data can be found below and the Tableau dashboard can be found [here](link_to_tableau_dashboard).
+Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents.  The data consist of contents added to Netflix from 2008 to 2021. The oldest content is as old as 1925 and the newest as 2021. This dataset will be cleaned with PostgreSQL and visualized with Tableau. The purpose of this dataset is to test my data cleaning and visualization skills. The cleaned data can be found below and the Tableau dashboard can be found [here]([link_to_tableau_dashboard](https://prod-uk-a.online.tableau.com/#/site/aksharagopakumar/workbooks/535149?:origin=card_share_link)).
 
 ## Data Cleaning
 
